@@ -1,4 +1,4 @@
 # Test123
 First Repository
 <br>
-Author - Zohaib Karim Noorani
+Author - Zohaib Noorani
